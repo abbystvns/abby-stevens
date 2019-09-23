@@ -11,7 +11,7 @@ const Research = () => (
         <h2>Research Interests</h2>
         <div style={{ paddingLeft: `2rem` }}>
           <ul>
-            <li>Math</li>
+            <li>Not Math</li>
             <li>Math</li>
             <li>Math</li>
             <li>Math</li>
