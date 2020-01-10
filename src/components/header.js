@@ -63,6 +63,17 @@ const Header = ({ siteTitle }) => (
           Contact
         </Link>
       </h5>
+      {/* <h5 style={{ paddingLeft: `2rem`, margin: 0 }}>
+        <Link
+          to="/temp"
+          style={{
+            color: `#fffff8`,
+            textDecoration: `none`,
+          }}
+        >
+          Temporary Page
+        </Link>
+      </h5> */}
     </div>
   </header>
 )

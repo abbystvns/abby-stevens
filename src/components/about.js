@@ -8,11 +8,11 @@ export const About = () => {
         <Image />
       </div>
       <div className="info">
-        <h4> About Me:</h4>
+        <h4> About Me </h4>
         <p>
-          Hello! I am a third-year Ph.D candidate in the Dept. of Statistics at
-          UChicago. I am currently conducting research under Dr. Rebecca
-          Willett.
+        Hi! I'm a a third year PhD student in Statistics at <a href="https://stat.uchicago.edu/">UChicago</a>
+        advised by  <a href="https://voices.uchicago.edu/willett/">Becca Willett</a>. I like using data to do good things.
+
           <br /> <br />I can be reached at{" "}
           <a
             href={`mailto:  abbystevens@uchicago.edu`}
