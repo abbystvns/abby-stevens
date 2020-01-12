@@ -60,7 +60,7 @@ template {
 }
 a {
   text-decoration: none;
-  color: black;
+  color: rgb(13, 71, 161);
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
