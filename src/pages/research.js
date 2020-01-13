@@ -18,7 +18,7 @@ const Research = () => (
           </ul>
         </div>
         <h4 style={{ marginTop: `2rem` }}>Publications</h4>
-        
+
         <p>
           P. Saleiro, B. Kuester, L. Hinkson, J. London, <strong>A. Stevens</strong>, A.
           Anisfeld, K. Rodolfa, and R. Ghani. <i>Aequitas: A Bias and Fairness
@@ -49,7 +49,6 @@ const Research = () => (
           <i>Computational and Applied Mathematics Student Seminar</i>, Chicago,
           IL, April 2019.
         </p>
-        </h4>
       </div>
     </div>
     <BackButton />
