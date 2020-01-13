@@ -8,7 +8,7 @@ const Teaching = () => (
     <SEO title="Teaching" />
     <div className="main">
       <div className="container">
-        <h2>Teaching</h2>
+        <h4>Teaching</h4>
         <p>
           STAT/CMSC 118: <i>Introduction to Data Science I</i>.
           <br />
