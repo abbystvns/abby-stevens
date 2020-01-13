@@ -8,16 +8,16 @@ const Research = () => (
     <SEO title="Research" />
     <div className="main">
       <div className="container">
-        <h2>Research Interests</h2>
+        <h3>Research Interests</h3>
         <div style={{ paddingLeft: `2rem` }}>
           <ul>
-            <li>Not Math</li>
+            <li></li>
             <li>Math</li>
             <li>Math</li>
             <li>Math</li>
           </ul>
         </div>
-        <h2 style={{ marginTop: `2rem` }}>Publications & Presentations</h2>
+        <h3 style={{ marginTop: `2rem` }}>Publications & Presentations</h3>
         <p>
           “Leveraging large ensemble climate simulations and graph-guided
           regularization for improving seasonal hydroclimatic forecasting,”
